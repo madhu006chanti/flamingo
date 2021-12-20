@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oooh+Baby&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap');
+body {
+  position: relative;
+  color: black;
+}
+.navbar{
+    background-color: #660029;
+}
+.navbar-brand{
+    font-family: 'Oooh Baby', cursive;
+    color: aliceblue; 
+    font: 14px;;    
+}
+
+.navbar-nav>li>a{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#home>img{
+    padding-top: 100px;
+}
